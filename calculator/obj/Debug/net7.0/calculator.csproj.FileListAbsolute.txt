@@ -1,0 +1,29 @@
+D:\CODS C#\calculator\calculator\obj\Debug\net7.0\calculator.csproj.AssemblyReference.cache
+D:\CODS C#\calculator\calculator\obj\Debug\net7.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODS C#\calculator\calculator\obj\Debug\net7.0\calculator.AssemblyInfoInputs.cache
+D:\CODS C#\calculator\calculator\obj\Debug\net7.0\calculator.AssemblyInfo.cs
+D:\CODS C#\calculator\calculator\obj\Debug\net7.0\calculator.csproj.CoreCompileInputs.cache
+D:\CODS C#\calculator\calculator\bin\Debug\net7.0\calculator.exe
+D:\CODS C#\calculator\calculator\bin\Debug\net7.0\calculator.deps.json
+D:\CODS C#\calculator\calculator\bin\Debug\net7.0\calculator.runtimeconfig.json
+D:\CODS C#\calculator\calculator\bin\Debug\net7.0\calculator.dll
+D:\CODS C#\calculator\calculator\bin\Debug\net7.0\calculator.pdb
+D:\CODS C#\calculator\calculator\obj\Debug\net7.0\calculator.dll
+D:\CODS C#\calculator\calculator\obj\Debug\net7.0\refint\calculator.dll
+D:\CODS C#\calculator\calculator\obj\Debug\net7.0\calculator.pdb
+D:\CODS C#\calculator\calculator\obj\Debug\net7.0\calculator.genruntimeconfig.cache
+D:\CODS C#\calculator\calculator\obj\Debug\net7.0\ref\calculator.dll
+C:\Users\24070\source\repos\Calculator\calculator\calculator\bin\Debug\net7.0\calculator.exe
+C:\Users\24070\source\repos\Calculator\calculator\calculator\bin\Debug\net7.0\calculator.deps.json
+C:\Users\24070\source\repos\Calculator\calculator\calculator\bin\Debug\net7.0\calculator.runtimeconfig.json
+C:\Users\24070\source\repos\Calculator\calculator\calculator\bin\Debug\net7.0\calculator.dll
+C:\Users\24070\source\repos\Calculator\calculator\calculator\bin\Debug\net7.0\calculator.pdb
+C:\Users\24070\source\repos\Calculator\calculator\calculator\obj\Debug\net7.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24070\source\repos\Calculator\calculator\calculator\obj\Debug\net7.0\calculator.AssemblyInfoInputs.cache
+C:\Users\24070\source\repos\Calculator\calculator\calculator\obj\Debug\net7.0\calculator.AssemblyInfo.cs
+C:\Users\24070\source\repos\Calculator\calculator\calculator\obj\Debug\net7.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\24070\source\repos\Calculator\calculator\calculator\obj\Debug\net7.0\calculator.dll
+C:\Users\24070\source\repos\Calculator\calculator\calculator\obj\Debug\net7.0\refint\calculator.dll
+C:\Users\24070\source\repos\Calculator\calculator\calculator\obj\Debug\net7.0\calculator.pdb
+C:\Users\24070\source\repos\Calculator\calculator\calculator\obj\Debug\net7.0\calculator.genruntimeconfig.cache
+C:\Users\24070\source\repos\Calculator\calculator\calculator\obj\Debug\net7.0\ref\calculator.dll
